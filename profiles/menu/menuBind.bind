@@ -1,0 +1,11 @@
+bind BD >menuToggle
+
+bind L1 >menuDown
+bind L2 >menuUp
+bind L3 >menuSelect
+bind L4 >menuMemory
+
+bind M1 >M1
+bind M2 >M2
+bind M3 >M3
+bind MR >MR

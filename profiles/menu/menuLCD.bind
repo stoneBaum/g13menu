@@ -1,0 +1,17 @@
+clear
+textmode 0
+font 5x8
+
+pos 3 0
+out --------------------------------
+
+pos 4 15
+out \/
+pos 4 55
+out /\
+pos 4 98
+out o
+pos 4 136
+out M
+pos 4 142
+out X

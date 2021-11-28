@@ -1,0 +1,21 @@
+
+
+clear
+pos 1 14
+font 5x8
+out (^-^)
+pos 1 121
+out (^-^)
+pos 2 14 
+out  /|~
+pos 2 40
+font 8x8 
+out   Spring
+pos 2 121
+font 5x8
+out  ~|\
+pos 3 14
+out  / \
+pos 3 121
+out  / \
+

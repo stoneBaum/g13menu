@@ -1,0 +1,10 @@
+[Unit]
+Description=Logitech G13 menu
+After=g13.service
+
+[Service]
+Type=simple
+User=g13
+Group=g13
+
+ExecStart=/usr/bin/g13menu /run/g13d/g13-0_out /run/g13d/g13-0 /etc/g13/profiles
